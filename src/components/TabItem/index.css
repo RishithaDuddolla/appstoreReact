@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.btn {
+  color: #7b8794;
+  border: 0px;
+  padding: 8px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  font-size: 20px;
+  background-color: transparent;
+  margin: 20px;
+}
+.li {
+  border-bottom: solid 1px #dfe2e5;
+  background-color: transparent;
+}
+.activeTab {
+  color: #2563eb;
+  font-weight: 500;
+  border-bottom: solid 1px #2563eb;
+}
